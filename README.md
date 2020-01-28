@@ -13,7 +13,6 @@ last 3/6/12 months', 'outstanding balance', 'number of trades', etc.
 ### Task 1 and Task 9 are mandatory.
 ### Answer any 3 of the other 7 tasks.
 ### Test starts at 19:30 PM.
-### Ensure that you submit the task by mid night tonight.
 
 ## Questions
 ### 1. Read data from csv files "Demographic data.csv" and "Credit Bureau data.csv" in a dataframe/Tibble, replace empty strings with NA. (2) Mandatory
